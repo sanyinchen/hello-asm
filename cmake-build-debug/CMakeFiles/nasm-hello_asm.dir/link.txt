@@ -1,0 +1,1 @@
+ld  CMakeFiles/nasm-hello_asm.dir/src/asm/hello.asm.o -o nasm-hello_asm 

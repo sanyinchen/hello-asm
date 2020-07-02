@@ -1,0 +1,3 @@
+/home/sanyinchen/CLionProjects/hello-asm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sanyinchen/CLionProjects/hello-asm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sanyinchen/CLionProjects/hello-asm/cmake-build-debug/CMakeFiles/nasm-hello_asm.dir

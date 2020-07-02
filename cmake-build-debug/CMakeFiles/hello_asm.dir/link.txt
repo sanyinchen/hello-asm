@@ -1,0 +1,1 @@
+/usr/bin/nasm    CMakeFiles/hello_asm.dir/hello.s.o  -o hello_asm 
